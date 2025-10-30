@@ -4,17 +4,6 @@
 
 ---
 
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-dark&hide_border=true&area=true">
-<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-light&hide_border=true&area=true">
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-dark&hide_border=true&area=true"/>
-</picture>
-</div>
-
----
-
-
 ## 🚀 About Me
 - 🌱 Currently leveling up in Full-Stack Development
 - 💡 Passionate about building scalable web apps & intuitive user experiences
