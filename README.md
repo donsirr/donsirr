@@ -24,19 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=donsirr&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=donsirr&show_icons=true&theme=tokyonight"/>
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsirr&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🏆 GitHub Achievements
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=donsirr&theme=tokyonight&margin-w=10"/>
