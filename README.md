@@ -1,16 +1,101 @@
-## Hi there 👋
+# Hello, I'm **Don** 👋
 
-<!--
-**donsirr/donsirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Young Aspiring Full-Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+---
+
+## 🚀 About Me
+- 🌱 Currently leveling up in Full-Stack Development
+- 💡 Passionate about building scalable web apps & intuitive user experiences
+- 🌍 Always learning, always creating
+
+---
+
+## 🧠 Tech Stack
+### **Languages**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css"/>
+</p>
+
+### **Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,vue"/>
+</p>
+
+### **Backend**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,django"/>
+</p>
+
+### **Databases**
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis,firebase"/>
+</p>
+
+### **Tools**
+<p>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode"/>
+</p>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Always+Learning+New+Technologies;Dreaming+Big+%26+Building+the+Future" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=donsirr&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=donsirr&show_icons=true&theme=tokyonight"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsirr&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=donsirr&theme=tokyonight&margin-w=10"/>
+</p>
+
+---
+
+## 🌟 Fun Stuff
+- 🧠 **What I'm Learning:** AI/ML, Database Analytics
+- 🎮 **Interests / Hobbies:** TFT
+- 🛠️ **Currently Building:** The future 🚀
+
+---
+
+## 🔥 Hero Banner
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/YfH8vHQ/tech-banner.gif">
+<source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/0j5V3Sz/light-banner.gif">
+<img alt="Hero Banner" src="https://i.ibb.co/YfH8vHQ/tech-banner.gif"/>
+</picture>
+</p>
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+<a href="mailto:donsirr2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://dons-zip.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+<a href="https://discord.com/users/402783772384296960"><img src="https://skillicons.dev/icons?i=discord"/></a>
+</p>
+
+---
+
+⭐️ *Thanks for visiting my profile!* 🙌
