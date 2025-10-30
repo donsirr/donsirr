@@ -78,24 +78,9 @@
 
 ---
 
-## 🔥 Hero Banner
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/YfH8vHQ/tech-banner.gif">
-<source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/0j5V3Sz/light-banner.gif">
-<img alt="Hero Banner" src="https://i.ibb.co/YfH8vHQ/tech-banner.gif"/>
-</picture>
-</p>
-
----
-
 ## 📬 Connect With Me
 <p align="center">
 <a href="mailto:donsirr2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://dons-zip.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 <a href="https://discord.com/users/402783772384296960"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
-
----
-
-⭐️ *Thanks for visiting my profile!* 🙌
