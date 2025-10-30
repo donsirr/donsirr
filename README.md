@@ -6,9 +6,9 @@
 
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/activity-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/activity-graph-light.svg">
-<img alt="3D Contribution Waves" src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/activity-graph-dark.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-dark&hide_border=true&area=true">
+<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-light&hide_border=true&area=true">
+<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=donsirr&theme=github-dark&hide_border=true&area=true"/>
 </picture>
 </div>
 
