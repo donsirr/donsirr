@@ -1,6 +1,8 @@
 # Hello, I'm **Don** 👋
 
-🎯 **Young Aspiring Full-Stack Developer**
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Always+Learning+New+Technologies;Dreaming+Big+%26+Building+the+Future" />
+</div>
 
 ---
 
@@ -13,14 +15,8 @@
 
 ## 🧠 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css,lua,robloxstudio,react,nextjs,vite,vue,nodejs,flask,django,mongodb,redis,firebase,git,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,java,html,css,lua,robloxstudio,react,nextjs,vite,vue,nodejs,flask,firebase,git,figma,vscode"/>
 </p>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Always+Learning+New+Technologies;Dreaming+Big+%26+Building+the+Future" />
-</div>
 
 ---
 
