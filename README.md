@@ -1,9 +1,5 @@
 # Hello, I'm **Don** 👋
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00A3FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;Always+Learning+New+Technologies;Dreaming+Big+%26+Building+the+Future" />
-</div>
-
 ---
 
 ## 🚀 About Me
