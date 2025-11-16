@@ -15,28 +15,13 @@
 
 ## 🧠 Tech Stack
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,cs,html,css,robloxstudio,react,nextjs,vite,vue,nodejs"/>
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,vite,vue,nodejs"/>
 </p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=donsirr&theme=tokyonight&margin-w=10"/>
-</p>
-
----
-
-## 🌟 Fun Stuff
-- 🧠 **What I'm Learning:** AI/ML, Database Analytics
-- 🎮 **Interests / Hobbies:** TFT
-- 🛠️ **Currently Building:** The future 🚀
 
 ---
 
 ## 📬 Connect With Me
 <p align="center">
 <a href="mailto:donsirr2005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://dons-zip.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 <a href="https://discord.com/users/402783772384296960"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
