@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Donsir%20Arcilla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Donsir%20Arcilla&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20Problem%20Solver%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- SOCIAL BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/donsirr?label=Follow&style=for-the-badge&color=0969da&labelColor=0d1117)](https://github.com/donsirr)
