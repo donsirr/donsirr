@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=160&text=Donsir%20Arcilla&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Full-Stack%20Developer%20%C2%B7%20Building%20with%20AI&descAlignY=72&descSize=16&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=4x+hackathon+podium+finisher+%F0%9F%8F%86;Turning+real+Filipino+problems+into+AI+tools;MCP+%C2%B7+RAG+%C2%B7+Agents+%C2%B7+Full-Stack" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://linkedin.com/in/donsirr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
